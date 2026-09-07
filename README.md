@@ -1,10 +1,12 @@
 # GemPad — Responsible Disclosure Record
 
+> **Historical summary — documentation updated 2026-09-07.** The [canonical GemPad disclosure repository](https://github.com/ChristopherPatrickKuntz/gempad-responsible-disclosure) records public disclosure on 2026-05-08. This summary preserves the original 2026-02-07 notification record. No newer vendor outcome is recorded in this summary.
+
 ## Advisory ID: CPK-2026-002
 
 **Target:** [GemPad](https://gempad.app) — Multi-chain DeFi Launchpad
 **Severity:** Critical (CVSS 9.1)
-**Status:** Disclosed — Awaiting Vendor Response
+**Status:** Historical summary; public disclosure recorded on 2026-05-08
 **Disclosure Date:** 2026-02-07
 
 ---
@@ -31,10 +33,10 @@ The finding was reported to GemPad's security team via their published security 
 
 ## What Is NOT Disclosed Here
 
-In accordance with responsible disclosure best practices, the specific technical details of the vulnerability — including affected code, exploit methodology, on-chain forensic analysis, and proof-of-concept — are **withheld from this public record** until:
+In accordance with responsible disclosure best practices, the specific technical details of the vulnerability — including affected code, exploit methodology, on-chain forensic analysis, and proof-of-concept — were **withheld from the original public record** until:
 
-1. The vendor has remediated the vulnerability, **or**
-2. The 90-day disclosure deadline has passed
+1. The vendor had remediated the vulnerability, **or**
+2. The 90-day disclosure deadline had passed
 
 This follows industry standard practice consistent with [Google Project Zero](https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-faq.html), [CERT/CC](https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy), and [Trail of Bits](https://blog.trailofbits.com/2024/04/15/5-reasons-to-strive-for-better-disclosure-processes/) disclosure policies.
 
@@ -44,8 +46,7 @@ This follows industry standard practice consistent with [Google Project Zero](ht
 |------|-------|
 | 2026-02-07 | Vulnerability discovered and verified |
 | 2026-02-07 | Advisory submitted to GemPad security contacts |
-| 2026-05-08 | Disclosure deadline (90 days) |
-| — | *Updates will be posted here as the disclosure progresses* |
+| 2026-05-08 | Disclosure deadline (90 days); public disclosure recorded in the canonical repository |
 
 ## About CPK Solutions
 
@@ -55,4 +56,4 @@ All assessments referenced in this record were conducted passively using only pu
 
 ---
 
-*This record exists solely to establish a timestamped public record of responsible disclosure. Full technical details will be published after the disclosure deadline or vendor remediation, whichever comes first.*
+*This historical summary establishes a timestamped public record of the original responsible disclosure. Publication updates are recorded in the canonical repository linked above.*
